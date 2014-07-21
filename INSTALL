@@ -1,0 +1,9 @@
+Building bananaCoin
+
+See doc/readme-qt.rst for instructions on building bananaCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of bananaCoin.
+
+See doc/build-*.txt for instructions on building bananaCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of bananaCoin.
